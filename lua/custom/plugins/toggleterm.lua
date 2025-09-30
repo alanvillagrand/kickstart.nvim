@@ -7,7 +7,7 @@ return {
         size = 15,
         open_mapping = [[<C-\>]], -- default toggle mapping
         shade_terminals = true,
-        direction = 'horizontal', -- can be 'vertical' | 'horizontal' | 'tab' | 'float'
+        direction = 'float', -- can be 'vertical' | 'horizontal' | 'tab' | 'float'
       }
     end,
   },
